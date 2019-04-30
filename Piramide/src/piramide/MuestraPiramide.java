@@ -8,7 +8,7 @@ public class MuestraPiramide {
 		
 		int altura = 5;
 		char simbolo = '*';
-		
+		//hola
 		System.out.println("Una piramide de 5 pisos con asteriscos:");
 		mostrarPiramide(altura, simbolo);
 		
